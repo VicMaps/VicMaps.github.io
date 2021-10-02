@@ -543,6 +543,10 @@ img {
 }
 
 @media (max-width: 600px) {
+   #page6 .intro-img {
+   width: 300px;
+   height: 300px;
+  }
   #page6 .mid-img {
     width: 100%;
     height: auto;
