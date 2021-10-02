@@ -363,6 +363,12 @@ img {
   }
 }
 
+@media (max-width: 991px) {
+  #page1 .about-content {
+    flex-direction: column;
+  }
+}
+
 
 #page1 .footer {
   border-top-style: solid;
