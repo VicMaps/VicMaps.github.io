@@ -471,6 +471,12 @@ img {
   }
 }
 
+@media (max-width: 991px) {
+  #page3 section {
+    padding: 0 2em;
+  }
+}
+
 /*======== Page 4 ========*/
 /*======== Page 5 ========*/
 /*======== Page 6 ========*/
